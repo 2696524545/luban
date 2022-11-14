@@ -1,0 +1,11 @@
+http:
+  # debug release
+  mode: 'debug'
+  listen: 19999
+
+mysql:
+  host: '127.0.0.1:3306'
+  config: 'charset=utf8mb4&parseTime=True&loc=Local'
+  db-name: 'luban-demo'
+  username: 'root'
+  password: 'd7131eeba69adaa0d6487bfddabd4b4b'
